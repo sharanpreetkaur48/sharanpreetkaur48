@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Sharanpreet Kaur 
 
-<!--
-**sharanpreetkaur48/sharanpreetkaur48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A curious learner | 🎥 Aspiring YouTuber | 💡 Personal Finance Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+- 🌱 Currently learning and building skills consistently  
+- 🎯 Interested in **Personal Finance, Content Creation & Self-Improvement**  
+- 🎶 Love **Punjabi music & singing**  
+- 📈 Believe in long-term growth over quick wins  
+
+---
+
+## 🛠️ Skills & Tools  
+- 💻 Basics of Programming & Problem Solving  
+- 🎬 Content Writing  
+---
+
+## 📌 Current Goals  
+- 🔨 Build meaningful projects on GitHub   
+- 📚 Improve consistency in learning & execution  
+- 🌱 Become financially literate and independent  
+
+---
+
+## ⚡ Fun Fact  
+> Small steps every day beat motivation once in a while.
+
+⭐ *Feel free to explore my repositories and follow my journey!*
