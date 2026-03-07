@@ -28,3 +28,7 @@
 > Small steps every day beat motivation once in a while.
 
 ⭐ *Feel free to explore my repositories and follow my journey!*
+
+## 💻 Skills
+
+![My Skills](https://skillicons.dev/icons?i=c,html,css,js,python,vscode)
