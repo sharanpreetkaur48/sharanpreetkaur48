@@ -27,8 +27,7 @@
  
 ## 🛠️ Skills & Tools
  
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,vscode,git)
- 
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,vscode,git,mysql,postgres)
 ---
  
 ## 📊 GitHub Stats
