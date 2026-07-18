@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Sharanpreet Kaur 👋</h1>
-<h3 align="center">🚀 Curious Learner &nbsp;|&nbsp; 🎥 Aspiring YouTuber &nbsp;|&nbsp; 💡 Personal Finance Enthusiast</h3>
- 
+<h3 align="center">🚀 Curious Learner &nbsp;|&nbsp; 💻 Future AI/ML Engineer &nbsp;|&nbsp; 🌱 Growing One Step at a Time</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+%40+MRSPTU;Learning+to+build%2C+one+day+at+a+time;Future+AI%2FML+Engineer+%F0%9F%8C%B1;Believer+in+long-term+growth" alt="Typing SVG" />
 </p>
